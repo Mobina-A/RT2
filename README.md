@@ -10,17 +10,27 @@ This Jupyter Notebook provides an interface for controlling and visualizing a ro
 
 ## Installation
 
+To run it in the docker
+1) Clone the project
 ```bash
- git clone https://github.com/Mobina-A/RT1_SecondAssignment-.git
+ git clone https://github.com/Mobina-A/RT2_SecondAssignment.git
 ```
+2) Open Jupyter notebook
+```bash
+ jupyter notebook --allow-root --ip 0.0.0.0
+```
+Use the token specify on the Docker terminal to enter
+
+3) Upload the files
+4) Open a new terminal and run the assignment
 
 ```bash
- cd RT1_SecondAssignment
+ cd RT2_SecondAssignment/assignment_2_2023
 ```
-
 ```bash
- pip install jupyros ipywidgets matplotlib numpy
+ roslaunch assignment_2_2023 assignment1.launch
 ```
+6) Run the jupyter file and set the location!
 
 
 
