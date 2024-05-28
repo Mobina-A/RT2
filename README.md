@@ -32,7 +32,26 @@ Use the token specify on the Docker terminal to enter
 ```
 6) Run the jupyter file and set the location!
 
+## Example
+---------------------------------
 
+<p align="center">
+  <img src="Images/fig1.png?raw=true" alt="Fig.1: Reached/Cancelled Goal Figure" width="1000" style="display:inline-block; margin: 0 10px;" />
+  <br />
+  <strong>Fig.1:</strong> Reached/Cancelled Goal Figure
+</p>
+
+<p align="center">
+  <img src="Images/fig2.png?raw=true" alt="Fig.2: Robot Odometry Figure" width="1000" style="display:inline-block; margin: 0 10px;" />
+  <br />
+  <strong>Fig.2:</strong> Robot Odometry Figure
+</p>
+
+<p align="center">
+  <img src="Images/fig3.png?raw=true" alt="Fig.3: Gazebo Env." width="1000" style="display:inline-block; margin: 0 10px;" />
+  <br />
+  <strong>Fig.3:</strong> Gazebo Env.
+</p>
 
 
 
